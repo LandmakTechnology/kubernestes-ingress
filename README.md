@@ -25,7 +25,7 @@ $ git clone https://github.com/LandmakTechnology/kubernestes-ingress.git
 
 $ cd kubernestes-ingress/deployments
 ```
-## 2. Create a Namespace And SA
+## 2. Create a Namespace and Service Account
 
 ```
  $ kubectl apply -f common/ns-and-sa.yaml
